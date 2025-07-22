@@ -22,7 +22,7 @@ Free to use. Improves over time with contribution.
 # Example
 Frame members (T230-X-X) are joined together by connectors (CX-X-X) and adapters (M1-X-X). Below is 2 x 1 x 1 frame used for storage. The storage containers are also made available.
 | CAD | Reality |
-:------------------------------: | :---------------------------|
+| :------------------------------: | :---------------------------: |
 | ![4](/repoData/SS4.png) | ![1](/repoData/SS1.png) |
 
 
