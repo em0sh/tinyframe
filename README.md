@@ -8,12 +8,6 @@ tinyFrame is a 3D printed modular tooling framing system focused on ease of manu
 </div>
 
 # Modular, Customizable and Open Source Tooling
-## Cost effective
-At $1/foot, this system is 1/2 the cost of PVC tubing and:
-- 1/8 the cost of 80/20 compatible T-Slot framing
-- and still cheaper than wood while maintaing reusability 
-## Accurate
-Modern 3D printers such as the Bambu P1P can hit roughly 250 micron of profile and positional tolerance. This is looser in practice due to warping of prints, but can be tuned. 
 ## Customizable
 CAD is provided and users can model and customize their designs before manufacture.
 ## Open Source

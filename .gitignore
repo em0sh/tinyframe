@@ -1,3 +1,5 @@
 *.FCBak
 *.DS_Store
 /archive/
+/.venv/
+/venv/
